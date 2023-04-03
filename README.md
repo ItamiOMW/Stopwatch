@@ -1,6 +1,6 @@
 # Stopwatch
 Simple stopwatch built with Material 3
-Figma https://www.figma.com/file/CitxqNTgE1jEvug95q2t0X/Stopwatch?node-id=0%3A1&t=nxCcLwJfoNA9Mqej-1
+# [Figma](https://www.figma.com/file/CitxqNTgE1jEvug95q2t0X/Stopwatch?node-id=0%3A1&t=nxCcLwJfoNA9Mqej-1)
 
 ## Tech Stack
 
